@@ -5,9 +5,9 @@ from datetime import datetime, timedelta
 import pandas as pd
 import os
 
-os.environ['EMAIL'] = 'kshanbhag231@gmail.com'
-os.environ['PASSWORD'] = 'leomessi*01'
-os.environ['USER_ID'] = '1462218'
+os.environ['EMAIL'] = ''
+os.environ['PASSWORD'] = ''
+os.environ['USER_ID'] = ''
 
 async def update(email, password, user_id):
     async with aiohttp.ClientSession() as session:
