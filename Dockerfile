@@ -9,7 +9,7 @@ COPY main.py /code/main.py
 
 WORKDIR /code/
 
-ENV EMAIL "kshanbhag231@gmail.com"
-ENV PASSWORD "leomessi*01"
-ENV USER_ID "1462218"
+ENV EMAIL ""
+ENV PASSWORD ""
+ENV USER_ID ""
 
