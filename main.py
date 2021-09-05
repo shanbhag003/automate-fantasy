@@ -7,9 +7,9 @@ from fpl import FPL
 
 from update_team import update
 
-os.environ['EMAIL'] = 'kshanbhag231@gmail.com'
-os.environ['PASSWORD'] = 'leomessi*01'
-os.environ['USER_ID'] = '1462218'
+os.environ['EMAIL'] = ''
+os.environ['PASSWORD'] = ''
+os.environ['USER_ID'] = ''
 
 
 async def check_update():
